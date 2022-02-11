@@ -8,8 +8,8 @@ A Script Recognition For opening any web on Browser Automation By calling The ma
 
   - install the main libraries:
 
-     - [SpeechRecognition](pip install SpeechRecognition)
+    - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+    - [PyAudio 0.2.11](https://pypi.org/project/PyAudio/)  required to use `microphone` input 
 
-     - [PyAudio 0.2.11](pip install PyAudio)  required to use `microphone` input 
 
        
